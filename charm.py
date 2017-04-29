@@ -1,3 +1,4 @@
+# This script is heavily based upon Justin Seitz's scripts in his Learning OSINT course on automatingosint.com
 from twitter_keys import *
  
 import json
