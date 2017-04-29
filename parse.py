@@ -1,3 +1,4 @@
+# This is a script to apply a regular expression to parse the information from charm.py 
 import re
 import time
 import sys
